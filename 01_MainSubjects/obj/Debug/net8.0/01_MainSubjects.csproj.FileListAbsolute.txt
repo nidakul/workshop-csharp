@@ -1,0 +1,14 @@
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/bin/Debug/net8.0/01_MainSubjects
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/bin/Debug/net8.0/01_MainSubjects.deps.json
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/bin/Debug/net8.0/01_MainSubjects.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/bin/Debug/net8.0/01_MainSubjects.dll
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/bin/Debug/net8.0/01_MainSubjects.pdb
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.dll
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/refint/01_MainSubjects.dll
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.pdb
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/ref/01_MainSubjects.dll
