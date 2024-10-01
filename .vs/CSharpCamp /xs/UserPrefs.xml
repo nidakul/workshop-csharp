@@ -1,4 +1,22 @@
-﻿<Properties StartupConfiguration="{7F603F41-648F-48F4-A137-B2629279DF4C}|Default">
-  <MonoDevelop.Ide.ItemProperties.01__MainSubjects PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+﻿<Properties StartupConfiguration="{5E7234B0-15C5-4FBD-A8C6-554D32C40769}|Default">
+  <MonoDevelop.Ide.ItemProperties.01__MainSubjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Variables PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_MainSubjects/Program.cs">
+    <Files>
+      <File FileName="01_MainSubjects/Program.cs" Line="68" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpCamp " expanded="True" selected="True">
+            <Node name="01_MainSubjects" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
