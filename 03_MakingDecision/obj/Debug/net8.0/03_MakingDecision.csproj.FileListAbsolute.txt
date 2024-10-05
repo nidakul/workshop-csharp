@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.deps.json
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.dll
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.pdb
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.sourcelink.json
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.dll
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/refint/03_MakingDecision.dll
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.pdb
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/03_MakingDecision/obj/Debug/net8.0/ref/03_MakingDecision.dll
