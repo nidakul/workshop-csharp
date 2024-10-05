@@ -65,3 +65,41 @@
 //else
 //    Console.WriteLine("Hoş geldiniz");
 #endregion
+
+#region Mod
+//int number = 26;
+//int result = number % 5;
+//Console.WriteLine(result);
+
+//Console.Write("Lütfen 1. sayıyı giriniz: ");
+//int number = int.Parse(Console.ReadLine());
+
+//Console.Write("Lütfen 2. sayıyı giriniz: ");
+//int number2 = int.Parse(Console.ReadLine());
+
+//int result = number % number2;
+//Console.Write("1. sayının 2. sayıya bölümünden kalan: " + result);
+
+//Console.Write("Lütfen sayıyı giriniz: ");
+//int number = int.Parse(Console.ReadLine());
+
+//if (number % 2 == 0)
+//    Console.WriteLine("Sayı çifttir.");
+//else
+//    Console.WriteLine("Sayı tektir.");
+#endregion
+
+#region char if-else
+//char team;
+//Console.Write("Lütfen takım sembolünü giriniz: ");
+//team = char.Parse(Console.ReadLine());
+
+//if(team == 'g' | team=='G')
+//    Console.WriteLine("Galatasaray");
+//if (team == 'f' | team == 'F')
+//    Console.WriteLine("Fenerbahçe");
+//if (team == 'b' | team == 'B')
+//    Console.WriteLine("Beşiktaş");
+#endregion
+
+
