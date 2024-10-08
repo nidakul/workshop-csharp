@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/04_Loops/bin/Debug/net8.0/04_Loops
+/Users/nida/Projects/CSharpCamp/04_Loops/bin/Debug/net8.0/04_Loops.deps.json
+/Users/nida/Projects/CSharpCamp/04_Loops/bin/Debug/net8.0/04_Loops.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/04_Loops/bin/Debug/net8.0/04_Loops.dll
+/Users/nida/Projects/CSharpCamp/04_Loops/bin/Debug/net8.0/04_Loops.pdb
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.sourcelink.json
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.dll
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/refint/04_Loops.dll
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.pdb
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/04_Loops.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/04_Loops/obj/Debug/net8.0/ref/04_Loops.dll
