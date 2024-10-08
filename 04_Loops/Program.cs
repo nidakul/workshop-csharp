@@ -98,4 +98,19 @@
 //}
 //Console.WriteLine(sum);
 
+
+
+#endregion
+
+#region Exam Question
+Console.Write("Lütfen sayı giriniz: ");
+int number = int.Parse(Console.ReadLine());
+int ones, tens, hundreds, sum;
+
+ones = number % 10;
+tens = (number % 100) / 10;
+hundreds = number / 100;
+
+sum = (ones + tens + hundreds);
+Console.WriteLine(sum);
 #endregion
