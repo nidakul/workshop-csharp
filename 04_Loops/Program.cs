@@ -69,3 +69,33 @@
 //    Console.WriteLine(i + ". saat sonunda: " + bacterium);
 //}
 #endregion
+
+#region While
+//int i = 1;
+//while (i <= 10)
+//{
+//    Console.WriteLine("Merhaba Döngüler");
+//    i++;
+//}
+
+//int i = 1;
+//while (i <= 10)
+//{
+//    if(i%3 == 0)
+//    {
+//        Console.WriteLine(i);
+//    }
+//    i++;
+//}
+
+//int i = 1;
+//int sum = 0;
+
+//while (i <= 10)
+//{
+//    sum += i;
+//    i++;
+//}
+//Console.WriteLine(sum);
+
+#endregion
