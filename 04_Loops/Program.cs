@@ -23,3 +23,49 @@
 //}
 
 #endregion
+
+#region For - if else
+//for (int i = 1; i <= 100; i++)
+//{
+//    if (i%5 == 0)
+//    {
+//        Console.WriteLine(i);
+//    }
+//}
+
+//int totalValue = 0;
+//for (int i = 1; i <= 10; i++)
+//{
+//    totalValue += i; 
+//}
+//Console.WriteLine(totalValue);
+
+//int totalValue = 0;
+//for (int i = 1; i <20; i++)
+//{
+//    if (i % 2 == 0)
+//    {
+//        totalValue += i;
+//        Console.WriteLine(i);
+//    }
+//}
+//Console.WriteLine("----------");
+//Console.WriteLine(totalValue);
+
+//int count = 0;
+//for (int i = 1; i <=60; i++)
+//{
+//    if(i % 7 == 0)
+//    {
+//        count++;
+//    }
+//}
+//Console.WriteLine(count);
+
+//int bacterium = 1;
+//for (int i = 1; i <= 24; i++)
+//{
+//    bacterium *= 2;
+//    Console.WriteLine(i + ". saat sonunda: " + bacterium);
+//}
+#endregion
