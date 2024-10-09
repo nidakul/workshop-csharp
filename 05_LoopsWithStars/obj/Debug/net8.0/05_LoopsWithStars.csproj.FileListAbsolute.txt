@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.sourcelink.json
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.deps.json
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.dll
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.pdb
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.dll
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/refint/05_LoopsWithStars.dll
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.pdb
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/05_LoopsWithStars/obj/Debug/net8.0/ref/05_LoopsWithStars.dll

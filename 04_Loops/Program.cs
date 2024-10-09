@@ -104,7 +104,7 @@
 
 #region Exam Question
 Console.Write("Lütfen sayı giriniz: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()); 
 int ones, tens, hundreds, sum;
 
 ones = number % 10;
