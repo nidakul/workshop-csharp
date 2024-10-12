@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/06_Arrays/bin/Debug/net8.0/06_Arrays
+/Users/nida/Projects/CSharpCamp/06_Arrays/bin/Debug/net8.0/06_Arrays.deps.json
+/Users/nida/Projects/CSharpCamp/06_Arrays/bin/Debug/net8.0/06_Arrays.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/06_Arrays/bin/Debug/net8.0/06_Arrays.dll
+/Users/nida/Projects/CSharpCamp/06_Arrays/bin/Debug/net8.0/06_Arrays.pdb
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.sourcelink.json
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.dll
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/refint/06_Arrays.dll
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.pdb
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/06_Arrays.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/06_Arrays/obj/Debug/net8.0/ref/06_Arrays.dll
