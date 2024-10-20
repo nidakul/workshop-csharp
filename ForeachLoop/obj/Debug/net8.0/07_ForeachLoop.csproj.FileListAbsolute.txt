@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/ForeachLoop/bin/Debug/net8.0/07_ForeachLoop
+/Users/nida/Projects/CSharpCamp/ForeachLoop/bin/Debug/net8.0/07_ForeachLoop.deps.json
+/Users/nida/Projects/CSharpCamp/ForeachLoop/bin/Debug/net8.0/07_ForeachLoop.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/ForeachLoop/bin/Debug/net8.0/07_ForeachLoop.dll
+/Users/nida/Projects/CSharpCamp/ForeachLoop/bin/Debug/net8.0/07_ForeachLoop.pdb
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.sourcelink.json
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.dll
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/refint/07_ForeachLoop.dll
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.pdb
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/07_ForeachLoop.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/Debug/net8.0/ref/07_ForeachLoop.dll

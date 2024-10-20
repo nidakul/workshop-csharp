@@ -1,12 +1,14 @@
-﻿<Properties StartupConfiguration="{DB41724C-DE02-4E94-BD29-83AD407862D0}|Default">
+﻿<Properties StartupConfiguration="{43A0E0DF-738E-4DF4-82D3-B911923E21FD}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.02__Variables PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.01__MainSubjects PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03__MakingDecision PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ForeachLoop/Program.cs">
     <Files>
-      <File FileName="ForeachLoop/Program.cs" Line="98" Column="13" />
+      <File FileName="ForeachLoop/Program.cs" Line="68" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +20,7 @@
   <MonoDevelop.Ide.ItemProperties.06__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08__Methods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05__LoopsWithStars PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07__ForeachLoop PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
