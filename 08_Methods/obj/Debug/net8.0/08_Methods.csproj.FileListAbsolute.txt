@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCamp/08_Methods/bin/Debug/net8.0/08_Methods
+/Users/nida/Projects/CSharpCamp/08_Methods/bin/Debug/net8.0/08_Methods.deps.json
+/Users/nida/Projects/CSharpCamp/08_Methods/bin/Debug/net8.0/08_Methods.runtimeconfig.json
+/Users/nida/Projects/CSharpCamp/08_Methods/bin/Debug/net8.0/08_Methods.dll
+/Users/nida/Projects/CSharpCamp/08_Methods/bin/Debug/net8.0/08_Methods.pdb
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.sourcelink.json
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.dll
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/refint/08_Methods.dll
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.pdb
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/08_Methods.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCamp/08_Methods/obj/Debug/net8.0/ref/08_Methods.dll
