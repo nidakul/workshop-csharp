@@ -1,15 +1,19 @@
-﻿<Properties StartupConfiguration="{43A0E0DF-738E-4DF4-82D3-B911923E21FD}|Default">
+﻿<Properties StartupConfiguration="{478657FF-A712-4B9D-BF1F-4EF0F7EC9B74}|Default">
+  <MonoDevelop.Ide.ItemProperties.06__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.07__ForeachLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09__DatabaseProject PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04__Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02__Variables PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.01__MainSubjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03__MakingDecision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08__Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05__LoopsWithStars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="08_Methods/Program.cs">
     <Files>
-      <File FileName="ForeachLoop/Program.cs" Line="68" Column="43" />
-      <File FileName="08_Methods/Program.cs" Line="1" Column="1" />
+      <File FileName="08_Methods/Program.cs" Line="50" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,11 +25,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.04__Loops PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.06__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.08__Methods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05__LoopsWithStars PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.07__ForeachLoop PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
