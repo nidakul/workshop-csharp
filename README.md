@@ -1,6 +1,6 @@
 🌺 Murat Yücedağ C# Kampı 🌺
 
-⭐ 01_MainSubjects
+⭐ 01_MainSubjects </br>
 Metinleri ifade etmek için string veri tipini kullanırken sayısal değerler için int veri tipi üzerinde çalıştık.
 
 ⭐ 02_Variables
