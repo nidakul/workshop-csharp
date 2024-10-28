@@ -23,7 +23,7 @@ Bu derste diziler konusuna giriş yaptık. Döngü ve if-else yapısını kullan
 Foreach yapısı üzerinde durarak çeşitli örnekler yaptık. 'Örnek Sınav Sistemi Uygulaması' oluşturarak foreach yapısını pekiştirdik.
 
 ⭐ 08_Methods </br>
-Bu derste geriye değer döndürmeyen (string ve int parametreli) ve geriye değer döndüren (string ve int parametreli) metotlar üzerinde örnekler yaptık. Son olarak, öğrencinin sınav ortalamasını hesaplayarak sınıfta kalıp kalmadığını gösteren bir sınav uygulaması gerçekleştirdik.
+Bu derste geriye değer döndürmeyen (string ve int parametreli) ve geriye değer döndüren (string ve int parametreli) metotlar üzerinde örnekler yaptık. Son olarak, öğrencinin sınav ortalamasını hesaplayarak sınıfta kalıp kalmadığını gösteren bir sınav uygulaması yaptık.
 
 ⭐ 09_DatabaseProject </br>
 MsSQL Server ile veritabanına giriş yaptık. Veritabanı tarafında tablolar oluşturarak verilerimizi girdik ve yazılım tarafında bu verileri nasıl getirebileceğimizi öğrendik.
