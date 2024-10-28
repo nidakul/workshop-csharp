@@ -1,4 +1,6 @@
-﻿#region
+﻿Console.WriteLine();
+
+#region
 //void Sum()
 //{
 //    int x = 1, y = 2;
@@ -80,7 +82,7 @@
 //Console.WriteLine(Sum(45,76));
 //Console.WriteLine(Sum(15,89));
 #endregion
- 
+
 #region Exam Example
 //string ExamResult(string student, int exam1, int exam2, int exam3)
 //{

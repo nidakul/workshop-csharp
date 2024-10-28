@@ -12,3 +12,4 @@
 /Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.pdb
 /Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.genruntimeconfig.cache
 /Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/ref/01_MainSubjects.dll
+/Users/nida/Projects/CSharpCamp/01_MainSubjects/obj/Debug/net8.0/01_MainSubjects.sourcelink.json

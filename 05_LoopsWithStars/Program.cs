@@ -1,4 +1,6 @@
-﻿#region Alt alta 10 yıldız
+﻿Console.WriteLine();
+
+#region Alt alta 10 yıldız
 //for (int i = 1; i <= 10; i++)
 //{
 //    Console.WriteLine("*");
@@ -127,4 +129,3 @@
 //}
 #endregion
 
- 
