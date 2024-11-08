@@ -27,3 +27,7 @@ Bu derste geriye değer döndürmeyen (string ve int parametreli) ve geriye değ
 
 ⭐ 09_DatabaseProject </br>
 MsSQL Server ile veritabanına giriş yaptık. Veritabanı tarafında tablolar oluşturarak verilerimizi girdik ve yazılım tarafında bu verileri nasıl getirebileceğimizi öğrendik.
+
+⭐ 10_DatabaseCrud </br>
+Bu derste veritabanına veri ekleme, güncelleme ve silme işlemlerini yaptık. Ayrıca verileri nasıl listelememiz gerektiğini de öğrendik.
+
