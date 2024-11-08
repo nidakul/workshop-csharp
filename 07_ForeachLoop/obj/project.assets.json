@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nida/Projects/CSharpCamp/ForeachLoop/07_ForeachLoop.csproj",
+      "projectUniqueName": "/Users/nida/Projects/CSharpCamp/07_ForeachLoop/07_ForeachLoop.csproj",
       "projectName": "07_ForeachLoop",
-      "projectPath": "/Users/nida/Projects/CSharpCamp/ForeachLoop/07_ForeachLoop.csproj",
+      "projectPath": "/Users/nida/Projects/CSharpCamp/07_ForeachLoop/07_ForeachLoop.csproj",
       "packagesPath": "/Users/nida/.nuget/packages/",
-      "outputPath": "/Users/nida/Projects/CSharpCamp/ForeachLoop/obj/",
+      "outputPath": "/Users/nida/Projects/CSharpCamp/07_ForeachLoop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nida/.nuget/NuGet/NuGet.Config"

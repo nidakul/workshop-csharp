@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b190+qI3JAYgDeD+n4vhSuhi1CjWxFPf5D8ZHLkzxSlLJIYge+uOVjuUrIinyHYieUqcaR1lo16u0TCgNowVRw==",
+  "dgSpecHash": "s5JrT50bmYA58Oz9jAP55quIVj7Tlxek3+9roj5WcmTNriqMnQwsGREq5AJYOCgqiPtFv55UaoGjlWmEe74tew==",
   "success": true,
-  "projectFilePath": "/Users/nida/Projects/CSharpCamp/ForeachLoop/07_ForeachLoop.csproj",
+  "projectFilePath": "/Users/nida/Projects/CSharpCamp/07_ForeachLoop/07_ForeachLoop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
